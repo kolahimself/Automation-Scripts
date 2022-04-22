@@ -1,2 +1,2 @@
 # Automation-Scripts
-Repository for creating awe-inspiring automation tools for engineering.
+Repository for creating awe-inspiring engineering automation tools.
